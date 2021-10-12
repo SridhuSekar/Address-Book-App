@@ -1,0 +1,2 @@
+export const ON_CLICK_ADD_HOME = "ON_CLICK_ADD_HOME";
+export const ON_CLICK_ADD_ADDRESS = "ON_CLICK_ADD_ADDRESS";
